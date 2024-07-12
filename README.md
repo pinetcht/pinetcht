@@ -3,8 +3,7 @@ I'm Pine, a rising senior majoring in CS and Linguistics from Pomona College! I 
 
 ## Projects and Background 🎯
 🔭 I’m currently working on ...
-* A Spotify social media app
-* JogJams, a spotify running playlist generator (from songs you know!)
+* JogJams, a running playlist generator from songs you know!
 
 🌱 I’m currently learning React, Express, PHP, NLP
 

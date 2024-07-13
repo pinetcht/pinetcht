@@ -11,6 +11,9 @@ I'm Pine, a rising senior majoring in CS and Linguistics from Pomona College! I 
 
 💬 Ask me about my daily water intake 🤔💦
 
+## Top Langs 📝
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinetcht&theme=tokyonight)
+
 ## How to reach me 📫 
 - **[LinkedIn](https://www.linkedin.com/in/pine-netcharussaeng-0900861a0/)**
 - **[Medium](https://medium.com/@pinetcht)**

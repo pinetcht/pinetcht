@@ -5,7 +5,7 @@ I'm Pine, a rising senior majoring in CS and Linguistics from Pomona College! I 
 🔭 I’m currently working on ...
 * JogJams, a running playlist generator from songs you know!
 
-🌱 I’m currently learning React, Express, PHP, NLP
+🌱 I’m currently learning React, Express, NLP
 
 ⚡ Fun fact: My name Pine is from an [email reader](https://en.wikipedia.org/wiki/Pine_(email_client))!
 

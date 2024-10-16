@@ -1,11 +1,10 @@
 ## Hi there 👋
-I'm Pine, a rising senior majoring in CS and Linguistics from Pomona College! I love learning languages and listening to music. I hope to work with Natural Language Processing projects, make cool apps with Spotify, and create software that facilitates language learning!
+I'm Pine, a senior majoring in CS and Linguistics from Pomona College! I love learning languages and listening to music. I hope to work with Natural Language Processing projects, make cool apps with Spotify, and create software that facilitates language learning!
 
 ## Projects and Background 🎯
-🔭 I’m currently working on ...
-* JogJams, a running playlist generator from songs you know!
+🔭 I’m currently working on: JogJams, a running playlist generator from songs you know!
 
-🌱 I’m currently learning React, Express, NLP
+🌱 I’m currently learning Natural Language Processing
 
 ⚡ Fun fact: My name Pine is from an [email reader](https://en.wikipedia.org/wiki/Pine_(email_client))!
 

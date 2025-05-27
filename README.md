@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Pine, a senior majoring in CS and Linguistics from Pomona College! I love learning languages and listening to music. I hope to work with Natural Language Processing projects, make cool apps with Spotify, and create software that facilitates language learning!
+I'm Pine, a recent CS and Linguistics graduate from Pomona College! I love learning languages and listening to music. I hope to work with make cool apps with Spotify and create software that facilitates language learning!
 
 ## Projects and Background 🎯
 🔭 I’m currently working on: my personal website!
